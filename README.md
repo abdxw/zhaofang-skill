@@ -111,10 +111,6 @@ zhaofang-share/
 
 ---
 
-## 上传背景
 
-本 skill 由 [Hermes Agent](https://hermes-agent.nousresearch.com/) 的找房助手（zhaofang）技能剥离用户特定数据后的通用版本。
-
-原始技能包含大量用户特定的通勤数据（用户居住/工作地点）、API Key 和个人找房经验，经过清理后保留通用的方法论和数据验证原则。
 
 如有问题或建议，欢迎提交 Issue。
